@@ -1,0 +1,108 @@
+{
+  "company": {
+    "name": "xbridge",
+    "logo": "/assets/images/logo-color.png"
+  },
+  "navigation": [
+    {
+      "name": "About",
+      "href": "about"
+    },
+    {
+      "name": "Projects",
+      "href": "projects"
+    }
+  ],
+  "callToAction": {
+    "text": "",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "a unified ecosystem of tools and services for ",
+    "subtitle": "ark based blockchains",
+    "description": " ",
+    "img": "/assets/images/header.svg",
+    "primaryAction": {
+      "text": "View Whitepaper",
+      "href": "https://github.com/xbridge-sh/docs/blob/main/introduction.pdf"
+    },
+    "secondaryAction": {
+      "text": "Join us on Discord",
+      "href": "https://discord.xbridge.sh"
+    }
+  },
+  "project": {
+    "title": "the xbridge ecosystem",
+    "items": [
+      {
+        "title":"explorer.sh",
+        "description":"Unified explorer for all ark based blockchains and SLP tokens and transactions.",
+        "logo":"assets/images/explorer.svg",
+        "available": true,
+        "available_date": ""
+      },
+      {
+        "title":"launchpad.sh",
+        "description":"Decentralized launchpad for ark-based blockchains to promote ark projects and slp projects.",
+        "logo":"assets/images/nologo.svg",
+        "available": false,
+        "available_date": "end of january"
+      },
+      {
+        "title":"delegates.sh",
+        "description":"Delegate navigator for all ark based blockchains for delegates, rewards and voting calculators.",
+        "logo":"assets/images/nologo.svg",
+        "available": false,
+        "available_date": "end of january"
+      },
+      {
+        "title":"armor.sh",
+        "description":"Decentralized ark-based browser wallet with core-slp features and ledger support, with an UX similar to Metamask.",
+        "logo":"assets/images/nologo.svg",
+        "available": false,
+        "available_date": "end of february"
+      },
+      {
+        "title":"crosschain.sh",
+        "description":"Decentralized exchange for blockchains using ark core and SLP with additional blockchains such as Ethereum and Solana.",
+        "logo":"assets/images/nologo.svg",
+        "available": false,
+        "available_date": "end of may"
+      }
+    ]
+  },
+  "info": {
+    "title": "ALL COMING SOON!",
+    "subtitle": "What is xbridge?",
+    "description": "xbridge is not a blockchain. xbridge is a joint collaboration and an initiative of several delegates on the ARK and Qredit blockchain. The initiative is designed to create an ecosystem of platforms and tools for ARK based blockchains (also known as “bridgechains”) with the key focus on decentralized finance (DeFi) and to explore, utilize and combine all the features and the strength of blockchains built on ARK core and close the gap between them. xbridge will develop tools that are comparable to the current demand of blockchain tools.",
+    "items": [
+      {
+        "name": "Open Source",
+        "description": "",
+        "icon": "1"
+      },
+      {
+        "name": "Community based",
+        "description": "",
+        "icon": "2"
+      },
+      {
+        "name": "Well-coded",
+        "description": "",
+        "icon": "3"
+      },
+      {
+        "name": "Community funded",
+        "description": "",
+        "icon": "4"
+      }
+    ]
+  },
+  "about": {
+    "socialMedia": {
+      "github": "https://github.com/xbridge-sh",
+      "twitter": "https://twitter.com/xbridge_sh",
+      "discord": "https://discord.xbridge.sh/"
+    }
+  }
+}
